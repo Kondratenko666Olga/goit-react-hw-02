@@ -1,4 +1,6 @@
-.descr {
-    color: aliceblue;
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    flex-direction: column;
 }
-
